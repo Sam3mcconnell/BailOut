@@ -1,8 +1,1 @@
-## 6/15:
-- got location screen working
-- stars work, border on starred
-- ## todo:
-	- fix starred button
-	- background location
-	- look into creating a shortcut
-	- make the web fun to fidget with
+Bailout is a sexual assault prevention app that is built in react native using Firebase as its backend. 
